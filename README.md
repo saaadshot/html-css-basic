@@ -1,1 +1,2 @@
-Just learning the basic html css from Brian Holt teaching on Frontend Masters
+Newspaper Article
+open index.html in browser
